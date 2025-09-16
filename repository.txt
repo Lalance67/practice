@@ -1,0 +1,1 @@
+A repository is a centralized storage location for data, files, and other assets. Repositories can be used for software development, research, data processing, and more. 
